@@ -13,4 +13,4 @@ The code above prints the value stored at index  **3** of **myArray**, which is 
 
 ## Task    
 
-Find task at [Hackerank challenges](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)   
+Find task at [Hackerrank challenges](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)   
